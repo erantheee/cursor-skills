@@ -322,3 +322,13 @@ site:52audio.com OR site:ifixit.com "{产品名}" teardown OR 拆解
 | 双面贴片 | 正面和背面都焊元件；比单面组装贵 |
 | eSIM | 焊在板上的虚拟 SIM，不是 4G 模组的替代品 |
 | 4G 模组 | 连基站的通信模块，通常带金属屏蔽罩 |
+| FOC | 控制电机力矩的算法，力反馈摇杆核心 |
+| 空贴 / 未贴装 | 板子留了焊盘但没焊芯片，可能是高低配或功能预留 |
+
+## PM 决策层（延伸阅读）
+
+成本粗估（含**置信度门禁**：单项低于「中」不写 ¥）、国内公版平替、空贴推理、**品类路由可替代对标**（音频 SoC / 蜂窝模组 / WiFi IoT / 通用 MCU）、供应链检索流程见 [pm-playbook.md](pm-playbook.md)。
+
+蓝牙音频 SoC 丝印解码（JL7018、BES、蓝讯、络达）、**Logo-only 铁律**、易混排除见 [marking-reference.md](marking-reference.md)。
+
+TicNote JL7018F3 反例、成本门禁示范、品类对标范例见 [examples.md](examples.md) 示例 5、8、9。
