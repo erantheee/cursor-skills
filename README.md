@@ -17,7 +17,7 @@ cp -R pcba-teardown-analysis ~/.cursor/skills/
 
 | Skill | 说明 |
 |-------|------|
-| [pcba-teardown-analysis](./pcba-teardown-analysis/) | PCBA 拆机方案分析（硬件工程师视角，面向产品经理） |
+| [pcba-teardown-analysis](./pcba-teardown-analysis/) | PCBA 拆机方案分析（硬件工程师视角，面向产品经理），可以将此Skill当作是一个赛博硬件工程师兼职采购，它会尽自己所能为你找到相应的电子料规格书，并简单挖掘背后的供应链和出货情况|
 
 ## 更新
 
