@@ -1,6 +1,6 @@
 # cursor-skills
 
-个人 Cursor Agent Skills 私人仓库。
+脑洞skill仓库
 
 ## 安装
 
